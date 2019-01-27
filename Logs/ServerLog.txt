@@ -1,0 +1,7 @@
+SERVER LOG
+
+01:15 Admin has started up the server.
+01:15 Started listening to port: 9999
+01:15 Client 0 connected!
+01:15 Client 0 has joined the chat as: Bob
+01:15 Admin has shutdown the server.

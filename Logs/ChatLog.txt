@@ -1,0 +1,4 @@
+CHAT LOG
+
+01:15 Bob has joined the room.
+01:15 Bob: Testing client for server maintenance message
